@@ -41,6 +41,8 @@
 
 **추천 Output Data**
 - **아우터, 상의, 하의, 신발 4개 품목에 대해 각 5개씩 추천**.
+- ![옷 추천.gif](README%20images%2FGIF%2F옷 추천.gif)
+
 
 ### 🥼 식
 ### 1. 레시피 추천 
@@ -55,12 +57,28 @@
 
 **추천 Output Data**
 - **추천 레시피 10건**
+- ![레시피 추천.gif](README%20images%2FGIF%2F레시피 추천.gif)
+
 
 ### 2. 레시피 검색 
 **사용자가 입력한 보유재료, 제외 재료 기반 레시피에 카테고리 분류를 적용하여 검색 가능**
+- ![레시피 검색.gif](README%20images%2FGIF%2F레시피 검색.gif)
+
+
+### 2. 레시피 상세조회 및 즐겨찾기 추가
+**레시피 상세 조회 및 즐겨찾기 추가 가능**
+- ![레시피 상세조회, 즐찾추가.gif](README%20images%2FGIF%2F레시피 상세조회, 즐찾추가.gif)
+
+
 
 ### 🏠 주
 ### - 게시판 
+- ![글쓰기.gif](README%20images%2FGIF%2F글쓰기.gif)
+- ![글 상세조회.gif](README%20images%2FGIF%2F글 상세조회.gif)
+- ![글수정.gif](README%20images%2FGIF%2F글수정.gif)
+- ![글삭제.gif](README%20images%2FGIF%2F글삭제.gif)
+
+
 **생활 꿀팁 및 정보 공유용 게시판**
 - 댓글
 - 좋아요
@@ -69,15 +87,25 @@
 
 ### 👨‍💼 마이페이지
 ### 1. 회원 정보 관리 
+- ![회원정보 변경.gif](README%20images%2FGIF%2F회원정보 변경.gif)
+
 
 ### 2. 재료 관리 
-#### 2-1. 보유 재고 관리
+#### 2-1. 보유 재고, 제외 재료 관리
+- ![냉장고 관리.gif](README%20images%2FGIF%2F냉장고 관리.gif)
 
-#### 2-2. 제외 재료 관리
 
 ### 3. 작성 게시글 관리
+- ![내가쓱글목록.gif](README%20images%2FGIF%2F내가쓴글목록.gif)
+
 
 ### 4. 최근 조회한 옷 정보
+- ![본옷목록조회.gif](README%20images%2FGIF%2F본옷목록조회.gif)
+
+
+### 5. 즐겨찾기한 레시피 정보
+- ![레시피 즐찾 목록 조회.gif](README%20images%2FGIF%2F레시피 즐찾 목록 조회.gif)
+
 
 ---
 
